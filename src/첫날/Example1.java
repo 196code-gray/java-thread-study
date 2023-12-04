@@ -13,4 +13,3 @@ public class Example1 {
         System.out.println(Thread.currentThread().getName() + " after thread");
     }
 }
-}
